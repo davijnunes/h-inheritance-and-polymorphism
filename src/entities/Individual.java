@@ -1,5 +1,7 @@
 package entities;
 
+// Specialized class
+
 public class Individual extends TaxPayer{
 	
 	private Double heathExpenditures;

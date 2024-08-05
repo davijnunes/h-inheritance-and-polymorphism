@@ -1,5 +1,7 @@
 package entities;
 
+//Specialized class
+
 public class Company extends TaxPayer {
 	
 	private Integer numberOfEmployee;

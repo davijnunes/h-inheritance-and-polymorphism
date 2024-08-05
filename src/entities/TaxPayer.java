@@ -1,5 +1,7 @@
 package entities;
 
+// Class generic
+
 public abstract class TaxPayer {
 	
 	private String name;
@@ -33,5 +35,6 @@ public abstract class TaxPayer {
 	}
 	
 	public abstract double tax();
+	
 	
 }
